@@ -10,6 +10,6 @@ Great assignment to learn how to understand flexbox.
 
 ###To Do (post graduation)
 
--Clean up white space.
--Get rid of unnecessary `display: flex`.
--Play around with [color pantomes](https://coolors.co/).
+- Clean up white space.
+- Get rid of unnecessary `display: flex`.
+- Play around with [color pantomes](https://coolors.co/).
