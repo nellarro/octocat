@@ -2,22 +2,31 @@
   background-color: #cacaca;
 }
 
+h1 {
+  margin: 0px;
+  padding-top: .5em;
+  padding-left: .5em;
+}
+
+body {
+  margin: 0px;
+}
+
 .header nav {
   display: flex;
   justify-content: space-between;
   margin: auto;
 }
 
+
 header ul {
   display: flex;
-  flex-grow: 1;
-  justify-content: flex-end;
   list-style: none;
+  justify-content: space-around;
 }
 
 header li {
-  display: flex;
-  list-style: none;
+
 }
 
 .gallery {
